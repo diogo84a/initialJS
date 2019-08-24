@@ -1,0 +1,2 @@
+# initialJS
+Project using JavaScript
